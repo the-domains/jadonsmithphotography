@@ -1,7 +1,7 @@
 name: JadonSmithPhotography
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4658488682471216
+layout_spectrum: 0.88801
+typography_spectrum: 0.34303
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3867b7'
     - '#9fcdfe'
     - '#cfd500'
-  brandStrength: 0.11364495591260493
+  brandStrength: 0
   lightness: 0.25
   saturation: 0.5
   rhythmicContrast: 0.5
