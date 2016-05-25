@@ -1,6 +1,6 @@
 name: JadonSmithPhotography
 favicon: null
-layout_spectrum: 0.43648
+layout_spectrum: 0.77001
 typography_spectrum: 0.34303
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fffeff'
-    - '#3867b7'
-    - '#9fcdfe'
-    - '#cfd500'
-  brandStrength: 0.25
-  lightness: 0.25
-  saturation: 0.5
-  rhythmicContrast: 0
+    - '#140f15'
+    - '#e4dae5'
+    - '#8883a7'
+    - '#454157'
+    - '#e9a071'
+  brandStrength: 0.3125
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
