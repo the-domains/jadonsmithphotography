@@ -4,8 +4,15 @@
         <description><![CDATA[JadonSmithPhotography]]></description>
         <link>https://thegrid.ai/jadonsmithphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 02:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 07:48:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jadonsmithphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>So this is the test of the Grid Beta. So far I dont like what it does to my images, although some of the effects have been interesting. Its aimed more at the bloggy type of site..</p>]]></description>
+            <link>https://thegrid.ai/jadonsmithphotography/so-this-is-the-test-of-the-grid-beta-so-far-i-dont-like-wha/index.html</link>
+            <guid isPermaLink="false">68f4416d-184f-4f74-b156-9c7f934bc825</guid>
+            <pubDate>Wed, 25 May 2016 07:48:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8b55b2-e5be-42bb-8b81-def81d4aac85.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1e646af-4e33-4c43-ab03-04de618c300b.jpg">]]></description>
             <link>https://thegrid.ai/jadonsmithphotography/e9c28c64-3837-4a71-8711-290e4d930614/index.html</link>
             <guid isPermaLink="false">e9c28c64-3837-4a71-8711-290e4d930614</guid>
-            <pubDate>Wed, 25 May 2016 02:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e722139e-45d3-4b8d-af23-68d83f78053a.jpg">]]></description>
-            <link>https://thegrid.ai/jadonsmithphotography/ea691ed9-478d-45eb-aa58-f88177db97a5/index.html</link>
-            <guid isPermaLink="false">ea691ed9-478d-45eb-aa58-f88177db97a5</guid>
             <pubDate>Wed, 25 May 2016 02:22:45 GMT</pubDate>
         </item>
     </channel>
