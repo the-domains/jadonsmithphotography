@@ -1,14 +1,14 @@
-layout_spectrum: 0.2089661576319486
+layout_spectrum: 0.733990203589201
 typography_spectrum: 0.535845186561346
 color:
-  brandStrength: 0.3048892228398472
-  lightness: 0.23955167457461357
-  saturation: 0.12944444851018488
-  rhythmicContrast: 0.8746597745921463
+  brandStrength: 0.6639124974608421
+  lightness: 0.4976384222973138
+  saturation: 0.5396840006578714
+  rhythmicContrast: 0.4384180177003145
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: JadonSmithPhotography
